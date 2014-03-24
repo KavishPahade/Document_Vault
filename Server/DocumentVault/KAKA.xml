@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<KAKA>
+  <FileInfo>
+    <Name>KAKA.txt</Name>
+    <Version>Version-1.1</Version>
+    <FileSize>28</FileSize>
+  </FileInfo>
+  <Description>er</Description>
+  <Categories>
+    <Category>Data</Category>
+  </Categories>
+  <Dependencies>
+    <Dependency>FileTesting4.txt</Dependency>
+  </Dependencies>
+  <Keywords>
+    <Keyword>sdsd</Keyword>
+  </Keywords>
+</KAKA>

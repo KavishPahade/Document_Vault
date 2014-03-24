@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<FileTesting1>
+  <FileInfo>
+    <Name>FileTesting1.txt</Name>
+    <Version>Version-1.1</Version>
+    <FileSize>36</FileSize>
+  </FileInfo>
+  <Description>Hellop</Description>
+  <Categories>
+    <Category>Data</Category>
+  </Categories>
+  <Dependencies>
+    <Dependency>FileTesting2.txt</Dependency>
+  </Dependencies>
+  <Keywords>
+    <Keyword>K67</Keyword>
+  </Keywords>
+</FileTesting1>

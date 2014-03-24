@@ -1,0 +1,11 @@
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\obj\Debug\AbstractCommunicatior.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\bin\Debug\AbstractCommunicatior.pdb
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\bin\Debug\IComm.dll
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\bin\Debug\IComm.pdb
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\obj\Debug\AbstractCommunicatior.pdb
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\bin\Debug\AbstractCommunicatior.exe
+C:\su\cse681\code\Project4HelpS13\AbstractCommunicatior\obj\Debug\AbstractCommunicatior.exe
+C:\su\cse681\code\Project4HelpF13\AbstractCommunicatior\bin\Debug\AbstractCommunicatior.dll
+C:\su\cse681\code\Project4HelpF13\AbstractCommunicatior\bin\Debug\AbstractCommunicatior.pdb
+C:\su\cse681\code\Project4HelpF13\AbstractCommunicatior\obj\Debug\AbstractCommunicatior.dll
+C:\su\cse681\code\Project4HelpF13\AbstractCommunicatior\obj\Debug\AbstractCommunicatior.pdb

@@ -1,0 +1,6 @@
+With the release of the .NET Framework 3.5 in November 2007, Microsoft released an encoder that added support for the JSON serialization format to WCF.[3] This allows WCF service endpoints to service requests from AJAX-powered Web pages which only accept JSON.
+Behaviors are just types that modify or extend service or client functionality. Behaviors allow the developer to create custom processing, transformation, or inspection that is applied to messages as they are sent or received. Some examples of uses for behaviors are:
+Controlling whether metadata is published with a service.
+Adding security features to a service, such as impersonation, authorization, or managing tokens
+Recording information about messages, such as tracking, tracing, or logging
+Message and validation.

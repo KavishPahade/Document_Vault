@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileTesting4>
+  <FileInfo>
+    <Name>FileTesting4.txt</Name>
+    <Version>Version-1.1</Version>
+    <FileSize>36</FileSize>
+  </FileInfo>
+  <Description>This is a test file</Description>
+  <Categories>
+    <Category>Metadata</Category>
+  </Categories>
+  <Dependencies>
+    <Dependency>FileTesting3.txt</Dependency>
+    <Dependency>FileTesting1.txt</Dependency>
+  </Dependencies>
+  <Keywords>
+    <Keyword>K5</Keyword>
+    <Keyword>K6</Keyword>
+  </Keywords>
+</FileTesting4>

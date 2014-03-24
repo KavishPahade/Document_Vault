@@ -1,0 +1,41 @@
+A WCF Service channel requires a service on one end and client on the other. The visible parts of 
+the service are: 
+ 
+Service contract: an interface that describes the ServiceOperations, which may depend on a 
+DataContract and/or MessageContract. 
+ 
+Service implementation implements the service contract with ServiceBehaviors. 
+ 
+ServiceHost is hosted by a windows program, windows service, or may be hosted in IIS. It 
+defines the protocol for communication and endpoint specifics, e.g., address, binding, and contract. 
+ 
+Service client uses ChannelFactory or ClientBase to create a proxy which exposes, in the client’s 
+address space, the ServiceOperations. 
+
+class Program 
+ { 
+ static void Main(string[] args) 
+ { 
+ XDocument doc = XDocument.Load(@"..\..\Dist.xml"); 
+ Console.Write(doc.ToString()); 
+ Console.Write("\n\n"); 
+ var files = from e in 
+ doc.Elements("DistInput") 
+.Elements("file") 
+ select e; 
+ 
+ foreach (var file in files) 
+ { 
+ var q2 = from e in file.Elements("filename") select e; 
+ Console.Write("\n {0}", q2.ElementAt(0).Value); 
+ var q3 = from e in file.Elements("function").Elements() select e; 
+ int numFuncs = q3.Count() / 2; 
+ for (int i = 0; i < numFuncs; ++i) 
+ { 
+ Console.Write("\n {0}", q3.ElementAt(2 * i).Value); 
+ Console.Write(" {0}", q3.ElementAt(2 * i + 1).Value); 
+ } 
+ } 
+ Console.Write("\n\n"); 
+ } 
+ }

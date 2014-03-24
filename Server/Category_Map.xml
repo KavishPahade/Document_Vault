@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <category name="Source">
+    <filename>FileTesting3.txt</filename>
+    <filename>FileTesting1.txt</filename>
+  </category>
+  <category name="Data">
+    <filename>FileTesting2.txt</filename>
+    <filename>KAKA.txt</filename>
+    <filename>FileTesting1.txt</filename>
+  </category>
+  <category name="Metadata">
+    <filename>FileTesting4.txt</filename>
+  </category>
+</root>

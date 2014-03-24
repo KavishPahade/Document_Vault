@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <FileInfo>
+    <Name>file1.xml</Name>
+    <Dependencies>
+    <dependency>child1.xml</dependency>
+    <dependency>child2.xml</dependency>
+    <dependency>child3.xml</dependency>
+    </Dependencies>
+   <LastModified>10/4/2013 9:57:26 PM</LastModified>
+   <FileSize>18</FileSize> 
+  <Desciption>Hiiiii All</Desciption>
+  <Keywords>
+    <Keyword1>Keyword</Keyword1>
+  </Keywords>
+</FileInfo>

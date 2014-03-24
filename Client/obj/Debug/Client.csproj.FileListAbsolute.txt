@@ -1,0 +1,29 @@
+C:\su\cse681\code\Project4HelpF13\Client\bin\Debug\CommClient.exe.config
+C:\su\cse681\code\Project4HelpF13\Client\bin\Debug\CommClient.exe
+C:\su\cse681\code\Project4HelpF13\Client\bin\Debug\CommClient.pdb
+C:\su\cse681\code\Project4HelpF13\Client\obj\Debug\CommClient.exe
+C:\su\cse681\code\Project4HelpF13\Client\obj\Debug\CommClient.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\CommClient.exe.config
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\CommClient.exe
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\CommClient.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\obj\Debug\CommClient.exe
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\obj\Debug\CommClient.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\CommService.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\Receiver.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\SenderProxy.dll
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\CommService.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\Receiver.pdb
+C:\su\coretechnologies\CSharp\code\MediatorBasedCommunicator\Client\bin\Debug\SenderProxy.pdb
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\CommClient.exe.config
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\CommClient.exe
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\CommClient.pdb
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\CommService.dll
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\Receiver.dll
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\SenderProxy.dll
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\CommService.pdb
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\Receiver.pdb
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\bin\Debug\SenderProxy.pdb
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\obj\Debug\CommClient.exe
+C:\Users\Kavish\Documents\Visual Studio 2012\Projects\Project4HelpF13\Client\obj\Debug\CommClient.pdb
